@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lqhuy28&label=Profile%20views&color=0e75b6&style=flat" alt="lqhuy28" /> </p>
 
-👨‍💻 Aspiring Backend Developer | 🚀 Building Scalable Solutions
+**👨‍💻 Aspiring Backend Developer | 🚀 Building Scalable Solutions**
 
 - 💻 Familiar with designing RESTful APIs.
 - 🔧 Skilled in Java Spring, MySQL, and basic cloud technologies.
