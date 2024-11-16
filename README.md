@@ -4,6 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lqhuy28&label=Profile%20views&color=0e75b6&style=flat" alt="lqhuy28" /> </p>
 
+- 💻 Familiar with designing RESTful APIs.
+- 🔧 Skilled in Java Spring, MySQL, and basic cloud technologies.
+- 🛠️ Passionate about building clean, efficient backend systems.
+- 🌱 Currently learning CI/CD and containerization with Docker.
+- 💡 Always eager to learn, grow, and collaborate in a team environment.
 - 📫 How to reach me **lequanghuy2809@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
