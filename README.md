@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Currently working at <strong>Starack</strong><br>
-  <img src="https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGlxS1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--20567cdc4960a26d2fa417a4fb81cd739aa796dc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwQWFvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--be8303cd58d898b976ab84bbfd3800ba60f90a5c/Starack%20Logo-02.jpeg" alt="Starack Logo" width="150">
+  <img src="https://media.licdn.com/dms/image/v2/D563DAQHPca0pQ5cKPA/image-scale_191_1128/image-scale_191_1128/0/1683095803822/starack_cover?e=2147483647&v=beta&t=leU146EyTFMnDOvlp9-iCFUuy-DtpwRCk1Mwgj5R-6E" alt="Starack Logo" width="150">
 </h3>
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
