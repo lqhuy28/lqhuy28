@@ -1,6 +1,9 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=37&color=000000&center=true&vCenter=true&width=1000&height=50&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I%27m+HuyLQ!;+Welcome+to+My+GitHub!;" /></h1>
 
-<h3 align="center">I'm currently studying at FPT University</h3>
+<h3 align="center">
+  Currently working at <strong>Starack</strong><br>
+  <img src="https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGlxS1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--20567cdc4960a26d2fa417a4fb81cd739aa796dc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwQWFvdyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--be8303cd58d898b976ab84bbfd3800ba60f90a5c/Starack%20Logo-02.jpeg" alt="Starack Logo" width="150">
+</h3>
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lqhuy28&label=Profile%20views&color=0e75b6&style=flat" alt="lqhuy28" /> </p>
