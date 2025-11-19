@@ -1,13 +1,5 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=37&color=000000&center=true&vCenter=true&width=1000&height=50&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I%27m+HuyLQ!;+Welcome+to+My+GitHub!;" /></h1>
 
-<h3 align="center">
-  Currently working at <strong>Starack</strong><br>
-</h3>
-<div align="center" style="padding: 10px;">
-  <img src="https://media.licdn.com/dms/image/v2/D563DAQHPca0pQ5cKPA/image-scale_191_1128/image-scale_191_1128/0/1683095803822/starack_cover?e=2147483647&v=beta&t=leU146EyTFMnDOvlp9-iCFUuy-DtpwRCk1Mwgj5R-6E" 
-       alt="Starack Logo" width="450">
-</div>
-
 <div align="center" style="padding: 10px;">
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </div>
